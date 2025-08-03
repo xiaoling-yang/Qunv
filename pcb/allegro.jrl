@@ -1,0 +1,54 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Jul 14 12:00:51 2025
+\t (00:00:02)         Host=LAPTOP-BRLV9608 User=Lenovo Pid=35228 CPUs=32
+\t (00:00:02) 
+   (00:00:03) Loading skillExt.cxt 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+   (00:00:06) Loading cmds.cxt 
+\i (00:00:06) trapsize 752
+\i (00:00:06) trapsize 736
+\i (00:00:06) trapsize 755
+\i (00:00:07) trapsize 1274
+\i (00:00:08) trapsize 1237
+\i (00:00:08) trapsize 1274
+\i (00:00:10) signalintegrity 
+\i (00:00:24) open 
+\i (00:00:28) fillin "QV-601-Contril.brd"
+\t (00:00:28) Opening existing design...
+\w (00:00:28) WARNING(SPMHDB-214): OrCAD PCB Designer Professional opening an Allegro XL design.
+\w (00:00:28) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:28) WARNING(SPMHOD-33): Design was last saved by a different product (Allegro XL). Constraints and other design data may not be available with this product. Functionality between two products may also be equivalent, you should consult the product functionality matrix to determine differences.
+\i (00:00:29) fillin confirm
+\i (00:00:30) trapsize 824
+\d (00:00:30) Database opened: C:/Users/Lenovo/Desktop/work/pcb/QV-601-Contril.brd
+\i (00:00:30) signalintegrity 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 112.5767 59.7437
+\i (00:00:31) trapsize 1647
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 112.5109 59.5461
+\i (00:00:31) trapsize 3294
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 112.5109 59.3485
+\i (00:00:31) trapsize 6588
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 112.5109 59.3485
+\i (00:00:31) trapsize 13176
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 112.5109 59.3485
+\i (00:00:31) trapsize 26352
+\i (00:00:34) open 
+\i (00:01:23) fillin "C:\Users\Lenovo\Desktop\work\2025.7.14\AT606IO_VB1.brd"
+\t (00:01:23) Opening existing design...
+\w (00:01:23) WARNING(SPMHDB-214): OrCAD PCB Designer Professional opening an Allegro XL design.
+\w (00:01:23) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:01:23) WARNING(SPMHOD-33): Design was last saved by a different product (Allegro XL). Constraints and other design data may not be available with this product. Functionality between two products may also be equivalent, you should consult the product functionality matrix to determine differences.
+\i (00:01:24) fillin confirm
+\i (00:01:24) trapsize 10944
+\t (00:01:25)     Journal end - Mon Jul 14 12:02:14 2025

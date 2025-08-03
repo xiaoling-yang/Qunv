@@ -1,0 +1,56 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Mon Jul 14 19:25:10 2025
+# 
+# Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
+# Running on: laptop-brlv9608, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/Users/Lenovo/Desktop/work/2025.7.14\unnamed.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/Users/Lenovo/Desktop/work/2025.7.14/specctra.did
+# Current time = Mon Jul 14 19:25:11 2025
+# PCB C:/Users/Lenovo/Desktop/work/2025.7.14
+# Master Unit set up as: MIL 100
+# PCB Limits xlo=-20.0000 ylo=-20.0000 xhi=21020.0000 yhi=17020.0000
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 0, Vias Processed 0
+# Layers Processed: Signal Layers 2
+# Components Placed 0, Images Processed 0, Padstacks Processed 1
+# Nets Processed 0, Net Terminals 0
+# PCB Area=357000000.000  EIC=0  Area/EIC=  0.000  SMDs=0
+# Total Pin Count: 0
+# Signal Connections Created 0
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.1000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.1000 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/Users/Lenovo/Desktop/work/2025.7.14\unnamed.dsn
+# Nets 0 Connections 0 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Loading Do File pasde.do ...
+# Loading Do File C:/Users/Lenovo/Desktop/work/2025.7.14\unnamed_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <quit

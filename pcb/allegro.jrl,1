@@ -1,0 +1,14 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Jul 14 11:30:29 2025
+\t (00:00:02)         Host=LAPTOP-BRLV9608 User=Lenovo Pid=19324 CPUs=32
+\t (00:00:02) 
+   (00:00:03) Loading skillExt.cxt 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+   (00:00:04) Loading cmds.cxt 
+\i (00:00:04) trapsize 752
+\i (00:00:04) trapsize 736
+\i (00:00:04) trapsize 755
+\i (00:00:05) trapsize 1274
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Mon Jul 14 11:30:33 2025
