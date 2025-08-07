@@ -8,14 +8,14 @@ control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ha
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Include/core_cm3.h
-control_board_2\485_to_motor.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stdint.h
+control_board_2\485_to_motor.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\stdint.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Include/cmsis_version.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 control_board_2\485_to_motor.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-control_board_2\485_to_motor.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stddef.h
+control_board_2\485_to_motor.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\stddef.h
 control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 control_board_2\485_to_motor.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
@@ -36,7 +36,7 @@ control_board_2\485_to_motor.o: ../Middlewares/Third_Party/FreeRTOS/Source/inclu
 control_board_2\485_to_motor.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
 control_board_2\485_to_motor.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
 control_board_2\485_to_motor.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
-control_board_2\485_to_motor.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\string.h
+control_board_2\485_to_motor.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\string.h
 control_board_2\485_to_motor.o: ../Drivers/UART/bsp_uart.h
 control_board_2\485_to_motor.o: ../Inc/usart.h
 control_board_2\485_to_motor.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h

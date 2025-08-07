@@ -1,7 +1,7 @@
 control_board_2\freertos.o: ../Src/freertos.c
 control_board_2\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-control_board_2\freertos.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stddef.h
-control_board_2\freertos.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\stdint.h
+control_board_2\freertos.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\stddef.h
+control_board_2\freertos.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\stdint.h
 control_board_2\freertos.o: ../Inc/FreeRTOSConfig.h
 control_board_2\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 control_board_2\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -41,4 +41,4 @@ control_board_2\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTO
 control_board_2\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
 control_board_2\freertos.o: ../Drivers/UART/bsp_uart.h
 control_board_2\freertos.o: ../Inc/usart.h
-control_board_2\freertos.o: D:\software\Keil_v5\ARM\ARMCOMPLIER506\Bin\..\include\string.h
+control_board_2\freertos.o: D:\Keil_v5\ARM\507ARMCC\Bin\..\include\string.h
